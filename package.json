@@ -1,0 +1,20 @@
+{
+  "name": "shadowizard",
+  "version": "1.0.0",
+  "description": "Get perfect shadows.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gheydari/npm-shadowizard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gheydari/npm-shadowizard/issues"
+  },
+  "homepage": "https://github.com/gheydari/npm-shadowizard#readme"
+}
